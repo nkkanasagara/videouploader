@@ -1,0 +1,9 @@
+com\video\uploader\dao\VideoDao.class
+com\video\uploader\entity\User.class
+com\video\uploader\dao\VideoDaoImpl.class
+com\video\uploader\dao\UserDaoImpl.class
+com\video\uploader\dao\UserDao.class
+com\video\uploader\entity\video.class
+com\video\uploader\service\UserServiceImpl.class
+com\video\uploader\controller\Controller.class
+com\video\uploader\service\UserService.class
